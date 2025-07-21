@@ -5,3 +5,7 @@ This project is used to extract the most listened songs from spotify
 git add .
 git commit -m "comment"
 git push origin main (to push to main )
+
+
+#steps to install the required packages
+pip install spotipy
