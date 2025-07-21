@@ -9,3 +9,6 @@ git push origin main (to push to main )
 
 #steps to install the required packages
 pip install spotipy
+
+#steps to install the pyspark
+pip install pyspark
