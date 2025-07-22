@@ -47,5 +47,14 @@ df.select(col("track.name").alias("trackname"),col("track.album.name").alias("al
 
     # items[track[album[artists[external_urls[name
 
+"""
+Top Tracks
+Top Artists
+Most Active Listening time
+Most Listened Albums
+LIstening sessions over time
+Visualise using pandas
+"""
+
 #print(results)
 
